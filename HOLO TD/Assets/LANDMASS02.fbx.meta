@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 5e0791e68dd49d44ebd83e5a11f0078a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Array
+    100002: Array_Light___Sunlight
+    100004: CINEMA_4D_Editor
+    100006: Cube
+    100008: Cube_1
+    100010: Cube_2
+    100012: //RootNode
+    100014: Lensflare_Source
+    100016: Light
+    100018: Light_1
+    100020: Light_10
+    100022: Light_11
+    100024: Light_12
+    100026: Light_13
+    100028: Light_14
+    100030: Light_15
+    100032: Light_16
+    100034: Light_2
+    100036: Light_3
+    100038: Light_4
+    100040: Light_5
+    100042: Light_6
+    100044: Light_7
+    100046: Light_8
+    100048: Light_9
+    100050: Moon
+    100052: Moon_Light
+    100054: Physical_Sky
+    100056: Shadow_Plane
+    100058: Sky_Dome
+    100060: Sky_Null
+    100062: Sun
+    100064: Sun_light
+    400000: Array
+    400002: Array_Light___Sunlight
+    400004: CINEMA_4D_Editor
+    400006: Cube
+    400008: Cube_1
+    400010: Cube_2
+    400012: //RootNode
+    400014: Lensflare_Source
+    400016: Light
+    400018: Light_1
+    400020: Light_10
+    400022: Light_11
+    400024: Light_12
+    400026: Light_13
+    400028: Light_14
+    400030: Light_15
+    400032: Light_16
+    400034: Light_2
+    400036: Light_3
+    400038: Light_4
+    400040: Light_5
+    400042: Light_6
+    400044: Light_7
+    400046: Light_8
+    400048: Light_9
+    400050: Moon
+    400052: Moon_Light
+    400054: Physical_Sky
+    400056: Shadow_Plane
+    400058: Sky_Dome
+    400060: Sky_Null
+    400062: Sun
+    400064: Sun_light
+    2000000: CINEMA_4D_Editor
+    2100000: Mat.2
+    2100002: Mat
+    2100004: Mat.1
+    2300000: Cube_1
+    2300002: Cube_2
+    3300000: Cube_1
+    3300002: Cube_2
+    4300000: Cube_1
+    4300002: Cube_2
+    10800000: Lensflare_Source
+    10800002: Light
+    10800004: Light_1
+    10800006: Light_10
+    10800008: Light_11
+    10800010: Light_12
+    10800012: Light_13
+    10800014: Light_14
+    10800016: Light_15
+    10800018: Light_16
+    10800020: Light_2
+    10800022: Light_3
+    10800024: Light_4
+    10800026: Light_5
+    10800028: Light_6
+    10800030: Light_7
+    10800032: Light_8
+    10800034: Light_9
+    10800036: Moon_Light
+    10800038: Sky_Dome
+    10800040: Sun_light
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
